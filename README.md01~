@@ -1,0 +1,18 @@
+# Sitting-Arrangement
+Sitting Arrangement
+
+Learning Competencies
+
+Mampu membuat array multidimensi Mampu mengakses array 1 dimensi Mampu menggunakan while condition dan nested loop
+Restrictions
+Hanya boleh menggunakan built-in function .push()
+
+Directions
+Diberikan sebuah function bernama sittingArrangement dimana function tersebut menerima dua parameter: person bertipe data Array, dan column bertipe data Number.
+Function akan mengembalikan array multidimensi yang mengatur tempat duduk berdasarkan jumlah column. Di mana jika orang tidak cukup untuk mengisi column tersebut maka diisi dengan value 'Kursi Kosong'. Variabel column harus minimal bernilai 1, jika kurang dari itu maka tuliskan 'Invalid number'Diberikan sebuah function bernama sittingArrangement dimana function tersebut menerima dua paramter.
+
+Parameter pertama bernama personbertipe array Parameter kedua bernama columnbertipe number
+Function akan mengembalikan array multidimensi yang mengatur tempat duduk berdasarkan jumlah column. Dimana jika orang tidak cukup untuk mengisi column tersebut maka diisi dengan value 'Kursi Kosong'
+
+ASUMSI:
+variabel column harus minimal bernilai 1, jika kurang dari itu maka tuliskan 'Invalid number'
